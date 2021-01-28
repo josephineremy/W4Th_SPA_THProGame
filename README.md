@@ -1,6 +1,6 @@
 # spa-games-search
 
-Empty project.
+A project made on Webpack app. If you want to check out the following instructions:
 
 ## Building and running on localhost
 
@@ -27,6 +27,8 @@ npm run build-dev
 ```sh
 node dist/bundle.js
 ```
+
+or open dist/index.html in your favorite browser.
 
 ## Credits
 

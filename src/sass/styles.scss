@@ -1,0 +1,37 @@
+#pageContent {
+  background-color: #1a1a1a;
+  margin-top : -17px;
+}
+
+#intro {
+  background-color: #1a1a1a;
+}
+
+#chosePlatform select {
+  background: red;
+  color : #fff;
+  width: 150px;
+  height: 30px;
+  border: none;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, .5);
+  font-size: 15px;
+  margin-left: 50px;
+  padding-left: 15px;
+  -webkit-appearance: button;
+  margin-bottom: 50px;
+}
+
+#chosePlatform {
+  background-color: #1a1a1a;
+}
+
+.card img {
+  max-height: 200px;
+}
+
+.card {
+  border: 1px solid #1a1a1a;
+}
+
+
+@import "~bootstrap/scss/bootstrap";

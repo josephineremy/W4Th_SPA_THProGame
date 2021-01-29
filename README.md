@@ -24,11 +24,7 @@ npm run build-dev
 
 ## Running
 
-```sh
-node dist/bundle.js
-```
-
-or open dist/index.html in your favorite browser.
+open dist/index.html in your favorite browser.
 
 ## Credits
 
